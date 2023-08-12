@@ -4,7 +4,7 @@ import ComponentTwo from "./Components/componentTwo";
 import ComponentThree from "./Components/componentThree";
 
 const TWO = {
-  backgroundColor: "yellow",
+  backgroundColor: "#FF1493",
   padding: "50px",
   margin: "50px",
   fontSize: "50px",

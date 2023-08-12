@@ -1,13 +1,13 @@
 import React from "react";
 
 const styles = {
-  backgroundColor: "green",
+  backgroundColor: "#E0B0FF",
 };
 
 function componentOne() {
   return (
     <>
-      <div style={{ backgroundColor: "red" }}>componentOne</div>
+      <div style={{ backgroundColor: "hotpink" }}>componentOne</div>
       <div style={styles}>componentOne pt2</div>
     </>
   );
